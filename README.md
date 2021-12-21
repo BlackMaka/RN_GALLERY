@@ -22,7 +22,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 버전확인
 
 ```bash
-choch -v
+choco -v
 ```
 
 jdk8 설치
