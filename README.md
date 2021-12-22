@@ -200,6 +200,19 @@ npm i react-native-modal-datetime-picker @react-native-community/datetimepicker
 
 npm i @react-native-community/async-storage
 ```
+<br>
+
+이미지 선택.. 라이브러리
+
+<br>
+
+```bash
+npm install react-native-image-picker
+
+유사 라이브러리
+npm install @react0native-community/cameraroll
+```
+
 
 동영상 재생, 파일 선택, 카메라 촬영..
 네이티브...
@@ -268,3 +281,5 @@ service cloud.firestore {
 
 
 ```
+
+
