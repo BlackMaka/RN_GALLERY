@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021928212110",
+    "project_id": "public-test-160f5",
+    "storage_bucket": "public-test-160f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021928212110:android:a69fa7685d1e29707babdf",
+        "android_client_info": {
+          "package_name": "com.restd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021928212110-u2kei365qmhch38dvj4g1v6j6gb046sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.restd",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1021928212110-qgtu79n077ab30311vntbqbsl2rajitd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnF2IMYTLzTDzB-k2ldGovWpBuD7U3IhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021928212110-qgtu79n077ab30311vntbqbsl2rajitd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
