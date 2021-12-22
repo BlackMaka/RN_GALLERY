@@ -250,6 +250,9 @@ defaultConfig{
 npm i @react-native-firebase/app @react-native-firebase/auth @react-native-firebase/firestore @react-native-firebase/storage
 
 ```
+```javascript
+`한번 빌드 했다면 ${프로젝트/android} 경로에 가서 ${./grandlew clean} 해준다.}`
+```
 
 ```javascript
 
