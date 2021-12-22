@@ -202,18 +202,6 @@ npm i @react-native-community/async-storage
 ```
 <br>
 
-이미지 선택.. 라이브러리
-
-<br>
-
-```bash
-npm install react-native-image-picker
-
-유사 라이브러리
-npm install @react0native-community/cameraroll
-```
-
-
 동영상 재생, 파일 선택, 카메라 촬영..
 네이티브...
 
@@ -279,7 +267,28 @@ service cloud.firestore {
   }
 }
 
-
 ```
+
+<br>
+
+이미지 선택.. 라이브러리
+
+<br>
+
+```bash
+npm install react-native-image-picker
+
+유사 라이브러리
+npm install @react0native-community/cameraroll
+```
+
+카메라 및 갤러리 사용권한
+android/app/src/main/AndroidManifest.xml 
+
+```html
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+```
+
 
 
